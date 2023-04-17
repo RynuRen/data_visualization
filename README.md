@@ -22,7 +22,7 @@
 </p>
 
 ### 개발 환경 및 라이브러리
-Windows10 , python3.10, jupyter notebook, pandas, matplotlib, seaborn, pyecharts, folium, chart_studio, cufflinks
+Windows10, python3.10, jupyter notebook, pandas, matplotlib, seaborn, pyecharts, folium, chart_studio, cufflinks, Google Sheets
 
 ## 구상
 <img src="img_src/03.jpg">
