@@ -8,10 +8,10 @@
 2022.11.15 ~ 2022.11.23.
 
 ### 참여 인원
-[@곽지섭](https://github.com/RynuRen): 데이터 전처리, 시각화, heatmap, 코드관리
-[@김해민](https://github.com/arborsday): 상담소 정리, 웹
-[@이지수](): 데이터 전처리, calender, ppt, 발표
-[@손원준](): 데이터 전처리, 이미지 처리
+* [@곽지섭](https://github.com/RynuRen): 데이터 전처리, 시각화, heatmap, 코드관리
+* [@김해민](https://github.com/arborsday): 상담소 정리, 웹
+* [@이지수](): 데이터 전처리, calender, ppt, 발표
+* [@손원준](): 데이터 전처리, 이미지 처리
 
 ### 사용 기술
 <p>
